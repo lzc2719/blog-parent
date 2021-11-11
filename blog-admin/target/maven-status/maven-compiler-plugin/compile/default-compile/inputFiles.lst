@@ -1,0 +1,16 @@
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\AdminApp.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\vo\Result.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\config\SecurityConfig.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\mapper\AdminMapper.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\config\MybatisPlusConfig.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\service\AuthService.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\mapper\PermissionMapper.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\service\PermissionService.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\polo\Permission.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\vo\PageResult.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\controller\AdminController.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\model\params\PageParam.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\service\AdminService.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\service\SecurityUserService.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\polo\Admin.java
+D:\IdeaProjects\blog-parent\blog-admin\src\main\java\com\mszlu\blog\admin\service\MySimpleGrantedAuthority.java
